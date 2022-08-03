@@ -1,0 +1,55 @@
+div {
+  background-color: lightgrey;
+  width: 800px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 15px;
+  }
+
+<style type="text/css">
+
+		h1{
+			color: blue;
+			text-decoration: underline;
+		}
+		h2{
+			
+			color: darkred;
+			text-decoration: underline;
+		h3{
+			color: red;
+		}
+		}
+		#para1 {
+			color: green;
+		}
+		#idselector {
+			background-color: yellow;
+			 width: 400px;
+		}
+		.bluep {
+			color: blue; font-size: 160%;
+		}
+		.myDiv {
+  border: 5px outset red;
+  background-color: lightblue;    
+  text-align: center;
+		#name {
+			color : darkred;
+		}
+		.head3 {
+			color : red;
+		}
+		.head1{
+			color: purple;
+		}
+		div.absolute {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 725px;
+  border: 5px solid #73AD21;
+}
+
+
+	</style>
